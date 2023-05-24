@@ -1,0 +1,12 @@
+{
+    "name": "hcipl/contactform_1",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "hcipl",
+            "email": "pallavi.makadia@horizoncore.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
