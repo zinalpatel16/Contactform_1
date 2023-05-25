@@ -9,7 +9,7 @@
         }
     ],
     "type": "project",
-    "keywords": ["form", "contactform", "hcipl"],
+    "keywords": ["form", "contactform", "hcipl", "html"],
     "homepage": "https://github.com/zinalpatel16/Contactform_1",
     "license": "MIT",
     "minimum-stability": "dev",
