@@ -9,7 +9,7 @@
         }
     ],
     "type": "library",
-    "keywords": ["form","contactform"],
+    "keywords": ["form", "contactform"],
     "homepage": "https://github.com/zinalpatel16/Contactform_1",
     "license": "MIT",
     "minimum-stability": "dev",
