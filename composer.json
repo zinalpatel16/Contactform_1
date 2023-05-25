@@ -4,9 +4,16 @@
     "authors": [
         {
             "name": "hcipl",
-            "email": "pallavi.makadia@horizoncore.com"
+            "email": "pallavi.makadia@horizoncore.com",
+            "role": "Developer"
         }
     ],
+    "type": "library",
+    "keywords": ["form","contactform"],
+    "homepage": "https://github.com/zinalpatel16/Contactform_1",
+    "license": "MIT",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=7.0.0"
+    },
 }
