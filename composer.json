@@ -8,12 +8,17 @@
             "role": "Developer"
         }
     ],
-    "type": "library",
+    "type": "project",
     "keywords": ["form", "contactform"],
     "homepage": "https://github.com/zinalpatel16/Contactform_1",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.0"
+    },
+     "autoload": {
+        "psr-4": {
+            "Hcipl\\Contactform\\": "src/"
+        }
     }
 }
