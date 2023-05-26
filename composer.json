@@ -14,7 +14,8 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0.0"
+        "php": ">=7.0.0",
+        "hcipl/contactform": ">=v1.0.2"
     },
     "autoload": {
         "psr-4": {
