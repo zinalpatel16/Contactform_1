@@ -24,6 +24,6 @@
         "hcipl/contactform": "self.version"
     },
     "suggest": {
-        "hcipl/contactform": "Allows more advanced contact form",
+        "hcipl/contactform": "Allows more advanced contact form"
     }
 }
